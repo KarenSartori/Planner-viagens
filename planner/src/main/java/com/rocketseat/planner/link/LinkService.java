@@ -1,6 +1,5 @@
 package com.rocketseat.planner.link;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
